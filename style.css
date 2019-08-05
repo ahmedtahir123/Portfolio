@@ -34,7 +34,7 @@ body{
     position: absolute;
     width: 100%;
     height: 100%;
-    background-color: #b61924;
+    background-color: black;
     background-image: url("image1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -325,4 +325,14 @@ footer{
 .top{
     color: white !important;
     font-size: 2rem;
+}
+.bolded{
+    font-weight: bold;
+}
+.bg-light{
+    background-color: white !important;
+    border-bottom: 1px dotted gray;
+}
+.fiver{
+    font-weight: bold;
 }
