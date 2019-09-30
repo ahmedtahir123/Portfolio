@@ -46,7 +46,7 @@ body {
   align-items: center;
   position: absolute;
   top: 180px;
-  left: 230px;
+  left: 250px;
   color: white;
 }
 .name:nth-child(1) {
@@ -208,6 +208,14 @@ body {
 }
 .projects-one > div:nth-child(9) {
   background-image: url("11.PNG");
+  background-size: cover;
+}
+.projects-one > div:nth-child(10) {
+  background-image: url("food.jpg");
+  background-size: cover;
+}
+.projects-one > div:nth-child(11) {
+  background-image: url("tic.jpg");
   background-size: cover;
 }
 
